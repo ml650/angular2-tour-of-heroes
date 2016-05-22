@@ -7,48 +7,48 @@ It's based on "[Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/)" tu
 2. `npm start`
 
 ### directory layout
-.
-├── app
-│   ├── app.component.css
-│   ├── app.component.spec.ts
-│   ├── app.component.ts
-│   ├── app.template.html
-│   ├── dashboard
-│   │   ├── dashboard.component.css
-│   │   ├── dashboard.component.ts
-│   │   └── dashboard.template.html
-│   ├── hero
-│   │   ├── hero.model.ts
-│   │   ├── hero.service.ts
-│   │   └── mock-heroes.ts
-│   ├── hero-detail
-│   │   ├── hero-detail.component.css
-│   │   ├── hero-detail.component.ts
-│   │   └── hero-detail.template.html
-│   ├── heroes-list
-│   │   ├── heroes-list.component.css
-│   │   ├── heroes-list.component.ts
-│   │   └── heroes-list.template.html
-│   ├── in-memory-data.service.ts
-│   └── main.ts
-├── CHANGELOG.md
-├── Dockerfile
-├── LICENSE
-├── README.md
-├── e2e-spec.js
-├── favicon.ico
-├── index.html
-├── karma-test-shim.js
-├── karma.conf.js
-├── npm-debug.log
-├── package.json
-├── protractor.config.js
-├── styles.css
-├── systemjs.config.js
-├── tsconfig.json
-├── tslint.json
-├── typings.json
-└── wallaby.js
+    .
+    ├── app
+    │   ├── app.component.css
+    │   ├── app.component.spec.ts
+    │   ├── app.component.ts
+    │   ├── app.template.html
+    │   ├── dashboard
+    │   │   ├── dashboard.component.css
+    │   │   ├── dashboard.component.ts
+    │   │   └── dashboard.template.html
+    │   ├── hero
+    │   │   ├── hero.model.ts
+    │   │   ├── hero.service.ts
+    │   │   └── mock-heroes.ts
+    │   ├── hero-detail
+    │   │   ├── hero-detail.component.css
+    │   │   ├── hero-detail.component.ts
+    │   │   └── hero-detail.template.html
+    │   ├── heroes-list
+    │   │   ├── heroes-list.component.css
+    │   │   ├── heroes-list.component.ts
+    │   │   └── heroes-list.template.html
+    │   ├── in-memory-data.service.ts
+    │   └── main.ts
+    ├── CHANGELOG.md
+    ├── Dockerfile
+    ├── LICENSE
+    ├── README.md
+    ├── e2e-spec.js
+    ├── favicon.ico
+    ├── index.html
+    ├── karma-test-shim.js
+    ├── karma.conf.js
+    ├── npm-debug.log
+    ├── package.json
+    ├── protractor.config.js
+    ├── styles.css
+    ├── systemjs.config.js
+    ├── tsconfig.json
+    ├── tslint.json
+    ├── typings.json
+    └── wallaby.js
 
 # Angular 2 QuickStart Source
 
