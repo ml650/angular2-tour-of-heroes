@@ -1,0 +1,19 @@
+<h2>{{title}}</h2>
+
+<div>
+  <span> {{note}} </span>
+  <a href="{{link}}">{{desc}}</a>  
+</div>
+
+<hr/>
+
+<div>
+  <nav>
+    <a [routerLink]="['Dashboard']">Dashboard</a>
+    <a [routerLink]="['Heroes']">Heroes</a>
+  </nav>
+</div>
+
+<router-outlet></router-outlet>
+
+<!-- <hero-list></hero-list> -->
